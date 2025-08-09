@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:abirhasan8763@gmail.com"><img src="https://img.shields.io/badge/Email-abirhasan8763@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/md-abir-hasan-199432370/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://www.facebook.com/abirh7593/"><img src="https://img.shields.io/badge/FacebookMd.Abir Hasan-blue?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/abirh7593/"><img src="https://img.shields.io/badge/Md.Abir Hasan-blue?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="https://github.com/abir3262"><img src="https://img.shields.io/badge/GitHub-@abir3262-black?style=flat-square&logo=github" /></a>
 </p>
 
