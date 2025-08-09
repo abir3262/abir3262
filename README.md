@@ -55,7 +55,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abir3262&show_icons=true&locale=en" alt="abir3262" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abir3262&" alt="abir3262" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abir3262" alt="abir3262" /></p>
 
 
 ---
