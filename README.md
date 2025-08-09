@@ -51,11 +51,25 @@
 🛠️ Flutter, Dart
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abir3262&show_icons=true&locale=en&layout=compact" alt="abir3262" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abir3262&show_icons=true&locale=en" alt="abir3262" /></p>
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abir3262&theme=radical&hide_border=true" alt="abir3262" /></p>
+<p align="center">
+  <!-- Top Languages -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=abir3262&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <!-- GitHub Stats Card -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abir3262&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=abir3262&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 
 
 
