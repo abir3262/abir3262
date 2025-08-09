@@ -53,20 +53,17 @@
 ---
 ---
 
+---
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <!-- Top Languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=abir3262&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <!-- GitHub Stats Card -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abir3262&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center" style="background-color: #f9f9f9; padding: 15px; border-radius: 10px;">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=abir3262&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abir3262&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=abir3262&theme=default&hide_border=false" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=abir3262&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+---
 
 ---
 
