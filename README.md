@@ -7,7 +7,7 @@
   <a href="mailto:abirhasan8763@gmail.com"><img src="https://img.shields.io/badge/Email-abirhasan8763@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/md-abir-hasan-199432370/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://www.facebook.com/abirh7593/"><img src="https://img.shields.io/badge/Facebook-@Sabbir.290-blue?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://github.com/abir3262"><img src="https://img.shields.io/badge/GitHub-@Sabbir4916-black?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/abir3262"><img src="https://img.shields.io/badge/GitHub-@abir3262-black?style=flat-square&logo=github" /></a>
 </p>
 
 ---
@@ -29,17 +29,23 @@
   <img src="https://skillicons.dev/icons?i=c,python,php,laravel,mysql,html,css,js,git,vscode" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abir3262&label=Profile%20views&color=0e75b6&style=flat" alt="abir3262" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abir3262" alt="abir3262" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 ---
 
 ### 🚀 Projects
 
-#### 🌍 [Let's Explore Bangladesh](https://github.com/Sabbir4916/Let-s_Explore_Bangladesh)
+#### 🌍 [Let's Explore Bangladesh](https://github.com/abir3262/Let-s_Explore_Bangladesh)
 > A Laravel-based travel website showcasing beautiful places in Bangladesh.  
 ✅ Place listings, session-based cart, weather API integration  
 🛠️ Laravel, PHP, Blade, OpenWeather API
 
-#### 🍽️ [Restaurant Reservation System](https://github.com/Sabbir4916/restaurant_reservation_system)
+#### 🍽️ [Restaurant Reservation System](https://github.com/abir3262/restaurant_reservation_system)
 > A simple web app to manage restaurant table bookings.  
 ✅ Reservation form, admin approval system, table management  
 🛠️ Flutter, Dart
@@ -51,13 +57,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abir3262&" alt="abir3262" /></p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abir3262&show_icons=true&theme=react&count_private=true" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=abir3262&theme=react" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir3262&layout=compact&theme=react" width="45%" />
-</p>
 
 ---
 
